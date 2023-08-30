@@ -1,1 +1,1 @@
-# Amdad17-ML-DHP-Predictor-HealthMate-App
+ML-DHP-Predictor-HealthMate-App
